@@ -3,16 +3,16 @@ title: <p align="center" style="color:#c94c4c"> Walter Teixeira </p>
 logo: "/images/picture.png?raw=true"
 
 description:
-  <p align="center" style="color:#c94c4c">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/waltervt/">LinkedIn</a> |
-  <a href="https://github.com/waltervt">GitHub</a>
+  <p align="center">
+  <a href="pdf/resume.pdf" style="color:#c94c4c">Resume</a> |
+  <a href="https://www.linkedin.com/in/waltervt/" style="color:#c94c4c">LinkedIn</a> |
+  <a href="https://github.com/waltervt" style="color:#c94c4c">GitHub</a>
   </p>
   
   <p align="justify">
   • Graduated in Electrical Engineer<br>
   • Works as ERP Analyst<br>
-  • Constantly studying Data Science<br>
+  • Constantly studying Data Science
   <br><br>
   I am an electrical engineer who has realized the power of data and how a data-driven culture can lead to wise choices.
   <br><br>
