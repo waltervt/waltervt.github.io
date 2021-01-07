@@ -16,7 +16,7 @@
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-red?logo=Jupyter)](projects/E-Commerce_Data_Analysis.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-red?logo=GitHub)](https://github.com/waltervt/Data_Science_Projects/blob/master/E-Commerce%20Data%20Analysis/E-Commerce_Data_Analysis.ipynb)
-[![Open Dashboard](https://img.shields.io/badge/Tableau-Dashboard-red?logo=Tableau)](https://public.tableau.com/profile/walter7144#!/vizhome/E-CommerceAnalysis_15978372527630/SalesOverview?publish=yes)
+[![Open Dashboard](https://img.shields.io/badge/Tableau-Open_Dashboard-red?logo=Tableau)](https://public.tableau.com/profile/walter7144#!/vizhome/E-CommerceAnalysis_15978372527630/SalesOverview?publish=yes)
 
 <div style="text-align: justify">This work is based on a data set of transnational sales from an UK-based non-store online retail. In this analysis, my goal is to explore the data, learn more about sales and find patterns.</div><br>
 
@@ -35,4 +35,4 @@
 <center><img src="images/rent.jpg"/></center>
 
 ---
-<center>© 2020 Walter Teixeira. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2021 Walter Teixeira. Powered by Jekyll and the Minimal Theme.</center>
